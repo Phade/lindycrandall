@@ -1,4 +1,4 @@
 # lindycrandall
 Lindy Crandall's Music Website
 
-Made to showcase Lindy Crandall's music as well as upcoming shows. Information will be provided about discography
+Information regarding Lindy Crandall's music as well as a biography, discography, upcoming shows, and contact.
